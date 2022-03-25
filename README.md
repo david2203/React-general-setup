@@ -1,9 +1,15 @@
 # Getting Started with Create React App
 
-After cloning this repository, you need to go to NPMINSTALLS and install the MANDATORY NPM-packages, in order for the app to be executable
-
 This project was implemented with latest react-router-dom (V5) && node-sass (7.0.1) && node-modules (1.0.1) [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start).<br> [node-sass] (https://www.npmjs.com/package/node-sass).<br> [node-modules] (https://www.npmjs.com/package/node-modules).
 ## Available Scripts
+
+
+Before npm start it's MANDATORY to open 'React-project-template' in terminal and run these:
+### `npm i node-modules`
+
+### `npm i node-sass`
+
+### `npm i react-router-dom`
 
 In the project directory, you can run:
 
