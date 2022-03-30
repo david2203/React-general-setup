@@ -54,6 +54,12 @@
 
 </code>
 
+<code>
+const [, forceUpdate] = useReducer(x => x + 1, 0);
+
+forceupdate();
+</code>
+
 
 ######
 
